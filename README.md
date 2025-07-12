@@ -1,5 +1,3 @@
-Selenium Web Scraping and Testing Bots
-Project Overview
 This project contains a collection of web scraping and browser automation testing scripts built using Selenium WebDriver in Python. It automates web interactions for extracting data from websites and for testing web application behavior.
 
 The scripts are designed to:
